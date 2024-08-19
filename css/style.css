@@ -256,7 +256,7 @@ span{
     }
 }
 .heading{
-    font-size: 8rem;
+    font-size: 6rem;
     text-align: center;
     margin: 5rem 0;
 }
@@ -366,7 +366,7 @@ span{
 }
 .services-box{
     background-color: var(--main-color);
-    height: 220px;
+    height: 240px;
     padding: 2rem;
     margin-left: 5%;
     width: 100%;
@@ -508,11 +508,11 @@ span{
 }
 .footer .social{
     text-align: center;
-    padding-bottom: 25px;
+    padding-bottom: 20px;
     color: var(--main-color);
 }
 .footer .social a{
-    font-size: 25px;
+    font-size: 20px;
     color: var(--main-color);
     border: 2px solid var(--main-color);
     width: 42px;
@@ -533,7 +533,7 @@ span{
 .footer ul{
     margin-top: 0;
     padding: 0;
-    font-size: 14.9px;
+    font-size: 16px;
     line-height: 1.6;
     margin-bottom: 0;
     text-align: center;
@@ -548,7 +548,7 @@ span{
 }
 .footer ul li{
     display: inline-block;
-    padding: 0 15px;
+    padding: 0 8px;
 }
 .footer .copyright{
     margin-top: 50px;
